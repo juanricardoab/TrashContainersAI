@@ -1,5 +1,5 @@
 # TrashContainersAI
-<img src="Banner800x300.jpg" style="width:800px;">
+<img src="Banner.jpg" style="width:800px;">
 Clasificador de imágenes de contenedores de basura en mal estado usando técnicas y metodologías de Inteligencia Artificial.
 
 
